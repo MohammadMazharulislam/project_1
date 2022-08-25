@@ -21,9 +21,8 @@ section{
 }
 .l-button{
     text-decoration: none;
-    background-image: linear-gradient(red blue);
-    padding: 10px 30px;
-    background-color: cornflowerblue;
+    background-image: radial-gradient(cornflowerblue, skyblue);
+    padding: 10px 30px;  
     font-weight: 700;
     color: white ;
     border-radius: 15px;
