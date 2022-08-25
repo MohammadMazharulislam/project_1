@@ -19,3 +19,13 @@ section{
     width: 90%;
 
 }
+.l-button{
+    text-decoration: none;
+    background-image: linear-gradient(red blue);
+    padding: 10px 30px;
+    background-color: cornflowerblue;
+    font-weight: 700;
+    color: white ;
+    border-radius: 15px;
+
+}
