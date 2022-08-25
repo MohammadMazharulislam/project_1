@@ -7,3 +7,15 @@ h1{
 .name-color{
     color: cornflowerblue;
 }
+section{
+    display: flex;
+}
+.sec-1{
+    width: 50%;
+    margin: 10px;
+    padding: 30px;
+}
+.sec-1 img{
+    width: 90%;
+
+}
