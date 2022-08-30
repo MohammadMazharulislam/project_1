@@ -1,5 +1,6 @@
 body{
     font-family: 'League Spartan', sans-serif;
+    margin: 0;
 }
 h1{
     font-size: 40px;
@@ -74,4 +75,18 @@ section{
     border-end-end-radius: 15px;
     border-top-right-radius: 15px;
     box-shadow: 10px 10px 40px gray;
+}
+.bc1{
+    background-image: url(picture/bc.png);
+    background-repeat: no-repeat;
+    background-size: 50px;
+    background-position: -20px -10px;
+}
+.bc2{
+    background-image: url(picture/bc1.png);
+    background-repeat: no-repeat;
+    background-size: 300px;
+    background-position: left;
+    background-position-x: -50% ;
+
 }
